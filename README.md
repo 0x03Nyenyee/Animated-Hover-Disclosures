@@ -1,2 +1,2 @@
-# Animated-Hover-Disclosures
+# Animated-Hover-Disclosures.
 By. jhey
